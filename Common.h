@@ -20,7 +20,7 @@
 
 // ===== GUI layout =====
 #define TOP_BAR_H       28
-#define BTN_HEIGHT      60
+#define BTN_HEIGHT      80
 #define BTN_GAP         8
 #define BTN_MARGIN_X    12
 #define BTN_MARGIN_TOP  36
